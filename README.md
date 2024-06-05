@@ -6,6 +6,8 @@ Imagine having a personal doctor available to you 24/7, ready to assist with you
 Doctor AI an app which can assist with your health concerns , prescribing medications and also provides real-time consultations.
 #
 ## Technology Used
->machine learning
->logistic regression
->python library
+> machine learning
+
+> logistic regression
+
+> python library
