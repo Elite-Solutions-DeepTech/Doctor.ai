@@ -8,6 +8,6 @@ Doctor AI an app which can assist with your health concerns , prescribing medica
 ## Technology Used
 > machine learning
 
-> logistic regression
+> Random Forest Classifier
 
 > python library
